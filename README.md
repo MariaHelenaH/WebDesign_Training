@@ -2,4 +2,4 @@
 html css stuff
 
 
-Aufgaben 1)  create a simple web page with a title <head><h1> and a text paragraph in the <body>
+Aufgaben 1)  create a simple web page with a title "header" and a text paragraph in the "body".
