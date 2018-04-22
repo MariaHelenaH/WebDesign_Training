@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title>Marias HTML Spielwiese</title>
+		<style>
+		
+		h1 {
+			color: #ff0000;
+			}
+			
+		.gross {
+			text-transform: uppercase;
+			}
+			
+			
+		.klein {
+			text-transform: lowercase;
+			}
+		
+		</style>
+		
+	</head>
+	<body>
+	
+		<h1>Hallo Tarik</h1>
+		
+		<p>Your highness is trying to get skills.</p>
+		<p>Isn't she amazing? <span class="gross">Alles gross,</span> <span class="klein">alles klein.</span></p>
+	
+	</body>
+</html>
