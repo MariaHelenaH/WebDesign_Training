@@ -13,7 +13,7 @@
 - website example
 - https://www.udemy.com/bootstrap-4-website-course/
 - understanding bootstrap GRIDs
--
+- https://www.udemy.com/understanding-bootstrap-grids-and-columns/
 - .
 - Aufgabe 5) Learn how to build a full website:
 - https://www.udemy.com/html-css-bootstrap-jquery/
