@@ -12,4 +12,8 @@
 - https://www.udemy.com/learn-bootstrap-4-by-example/
 - website example
 - https://www.udemy.com/bootstrap-4-website-course/
-- 
+- understanding bootstrap GRIDs
+-
+- .
+- Aufgabe 5) Learn how to build a full website:
+- https://www.udemy.com/html-css-bootstrap-jquery/
